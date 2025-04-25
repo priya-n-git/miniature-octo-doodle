@@ -1,9 +1,11 @@
-<center><span style="font-weight: bold; font-size: 24px; color: #333;">Lasya priya Nata </span></center>
+<div align:center>
+<span style="font-weight: bold; font-size: 24px; color: #333;">Lasya priya Nata </span>
 
-<center><b><i> AI-ML Intern</center></b></i>
+<b><i> AI-ML Intern</b></i>
 
+</div>
 
-## Career Objective
+### Career Objective  
 <p>To build a prospering career in IT industry by availing every single opportunity.</p>
 
 <hr style="height:1px; background-color: black; border: none;" >
