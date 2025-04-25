@@ -1,4 +1,4 @@
-<div align:center>
+<div align="center">
 <span style="font-weight: bold; font-size: 24px; color: #333;">Lasya priya Nata </span>
 
 <b><i> AI-ML Intern</b></i>
